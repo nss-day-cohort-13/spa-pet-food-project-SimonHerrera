@@ -7,3 +7,21 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+table {
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+td, th {
+  border: 1px solid black;
+  width: 150px;
+  text-align: center;
+}
+
+/*.alt tr:nth-child(odd) {
+  background-color: red;
+}
+.alt tr:nth-child(even) {
+  background-color: green;
+}*/
