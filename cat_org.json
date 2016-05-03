@@ -2,7 +2,6 @@
   "cat_brands": [
     {
       "name": "Purina",
-      "breeds": ["Siamese", "Bengal", "Showshoe", "Munchkin"],
       "types": [
         {
           "type": "kitten",
@@ -37,8 +36,7 @@
       ]
     },
     {
-      "name": "Meow Meal",
-      "breeds": ["Siamese", "Bengal", "Showshoe", "Munchkin"],
+      "name": "Meow Mean",
       "types": [
         {
           "type": "kitten",
