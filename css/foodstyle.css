@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 40px;
   font-family: sans-serif;
 }
 
@@ -19,9 +19,9 @@ td, th {
   text-align: center;
 }
 
-/*.alt tr:nth-child(odd) {
-  background-color: red;
+tbody:nth-child(odd) {
+  background-color: darkgray;
 }
-.alt tr:nth-child(even) {
-  background-color: green;
-}*/
+tbody:nth-child(even) {
+  background-color: lightgray;
+}
