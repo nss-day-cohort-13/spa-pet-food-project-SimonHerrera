@@ -38,7 +38,7 @@
     },
     {
       "name": "Meow Meal",
-      "breeds": ["Siamese", "Bengal", "Showshoe", "Munchkin"],
+      "breeds": ["Manx", "Egyptian Mau", "Himalayan", "Rag Doll"],
       "types": [
         {
           "type": "kitten",

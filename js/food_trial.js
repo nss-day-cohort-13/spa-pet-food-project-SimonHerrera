@@ -35,6 +35,7 @@ infoRequest.send();
 // Cat Food
 function runIfCatFails(xhrEvent) {
   console.log("fail");
+  /*Console Network to See Status*/
 }
 
 function executeCatAfterFileLoad() {
@@ -71,13 +72,3 @@ catInfoRequest.addEventListener("load", executeCatAfterFileLoad);
 catInfoRequest.addEventListener("error", runIfCatFails);
 catInfoRequest.open("GET", 'cat_brands.json');
 catInfoRequest.send();
-
-
-
-
-
-
-
-
-
-
